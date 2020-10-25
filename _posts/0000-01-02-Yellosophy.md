@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Adnan
+title: "Adnan"
 ---
 
 Zdravo!  My name is Adnan Alagic and I am a Computer Engineering 
